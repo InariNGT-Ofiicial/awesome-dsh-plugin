@@ -1246,7 +1246,7 @@
     "en": "Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import)."
    },
    "npm": "@weibaohui/dsh-dashboard",
-   "stars": 1,
+   "stars": 3,
    "createdAt": "2026-09-27",
    "install": "dsh plugin --profile web add @weibaohui/dsh-dashboard",
    "added": "2026-10-10"
@@ -1816,7 +1816,7 @@
     "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
    },
    "npm": "dsh-filesnap",
-   "stars": 43,
+   "stars": 45,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-filesnap",
    "added": "2026-09-06"
@@ -1906,7 +1906,7 @@
     "en": "Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab."
    },
    "npm": "dsh-maze",
-   "stars": 86,
+   "stars": 87,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-maze",
    "added": "2026-10-10"
@@ -3571,7 +3571,7 @@
     "en": "Integrates TypeSafe Jev for skill and file selection, task supervision, shared-finding corrections, tool-output filtering, approval assistance, and recorded-stage navigation in DeepSeek Harness; all features are disabled by default."
    },
    "npm": null,
-   "stars": 207,
+   "stars": 197,
    "createdAt": "2026-09-27",
    "install": "dsh plugin --profile web add github:luobosibing2/dsh-jev-plugin",
    "added": "2026-10-10"
@@ -3736,7 +3736,7 @@
     "en": "Tavily search, extract, map and crawl tools with multi-key rotation, failover on HTTP 401/429/432/433, and a load-balance mode that caps in-flight requests per Tavily account; a key and usage card on the Plugins page. The built-in web_search is never replaced."
    },
    "npm": null,
-   "stars": 12,
+   "stars": 13,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:moguiyu/dsh-tavily",
    "added": "2026-10-10"
@@ -5326,7 +5326,7 @@
     "en": "Study workbench for exam prep and research: a three-column task board with tags and filters, a spaced-repetition queue (simplified SM-2) that keeps finished cards coming back, a heatmap lit by actual focused minutes, weekly reports, per-day review notes, a pomodoro timer that survives panel switches, and Markdown export/import for Obsidian."
    },
    "npm": "dsh-study-desk",
-   "stars": 0,
+   "stars": 2,
    "createdAt": "2026-10-08",
    "install": "dsh plugin --profile web add dsh-study-desk",
    "added": "2026-10-10"
@@ -5401,7 +5401,7 @@
     "en": "Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes."
    },
    "npm": "@weibaohui/dsh-flow",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-09-25",
    "install": "dsh plugin --profile web add @weibaohui/dsh-flow",
    "added": "2026-10-10"
@@ -5446,7 +5446,7 @@
     "en": "Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import."
    },
    "npm": "@weibaohui/dsh-thinktank",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-10-01",
    "install": "dsh plugin --profile web add @weibaohui/dsh-thinktank",
    "added": "2026-10-10"
@@ -6406,7 +6406,7 @@
     "en": "Use Windows and native Linux DSH sessions in one Windows window, with WSL environment switching and bidirectional system tools."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-30",
    "install": "dsh plugin --profile web add github:Han-1413141/dsh-wsl-native",
    "added": "2026-10-10"

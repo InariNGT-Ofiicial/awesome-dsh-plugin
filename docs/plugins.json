@@ -1261,7 +1261,7 @@
     "en": "Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser."
    },
    "npm": "@weibaohui/dsh-settings-ui",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-09-01",
    "install": "dsh plugin --profile web add @weibaohui/dsh-settings-ui",
    "added": "2026-09-06"
@@ -2041,7 +2041,7 @@
     "en": "Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log."
    },
    "npm": "@weibaohui/dsh-continue",
-   "stars": 7,
+   "stars": 9,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/dsh-continue",
    "added": "2026-09-06"
@@ -2641,7 +2641,7 @@
     "en": "Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly)."
    },
    "npm": "@weibaohui/hermes-loop",
-   "stars": 9,
+   "stars": 11,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/hermes-loop",
    "added": "2026-09-06"
@@ -4066,7 +4066,7 @@
     "en": "Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice."
    },
    "npm": "dsh-fund-research",
-   "stars": 67,
+   "stars": 66,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-fund-research",
    "added": "2026-09-13"
@@ -4426,7 +4426,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 201,
+   "stars": 240,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5416,7 +5416,7 @@
     "en": "Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI - browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage."
    },
    "npm": "@weibaohui/dsh-process",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-08",
    "install": "dsh plugin --profile web add @weibaohui/dsh-process",
    "added": "2026-09-13"
@@ -6871,7 +6871,7 @@
     "en": "Shared zero-runtime-dependency toolkit for the PerryLink DSH plugin family: a pluggable Provider seam, fail-closed approval and adaptive session-event gates, verify scripts, and shared sanitize/pricing/judge modules in one ESM + TypeScript package."
    },
    "npm": "@perrylink/dsh-plugin-kit",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add @perrylink/dsh-plugin-kit",
    "added": "2026-09-13"
